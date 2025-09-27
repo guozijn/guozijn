@@ -1,6 +1,8 @@
 # Hi, Zijian is here 👋
 
 ## 📊 GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guozijn&theme=github-light)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=guozijn&theme=default)
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=guozijn&show_icons=true&theme=default)
