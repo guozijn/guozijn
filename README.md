@@ -1,5 +1,4 @@
 # Hi, Zijian is here 👋
-🎓 Master of Computing & Innovation @ **University of Adelaide**
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=guozijn&theme=default)
@@ -7,6 +6,7 @@
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=guozijn&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guozijn&layout=compact&theme=default)
+
 ## 🎯 Focus
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EE4C2C?logo=pytorch&logoColor=white)
 
