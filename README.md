@@ -1,18 +1,5 @@
-# Hi, Zijian is here 👋
 
-## 📊 GitHub Stats
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guozijn&theme=github-light)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=guozijn&theme=default)
-
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=guozijn&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guozijn&layout=compact&theme=default)
-
-## 🎯 Focus
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EE4C2C?logo=pytorch&logoColor=white)
-
-## 🛠 Tech Stack
+## 🛠 Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
