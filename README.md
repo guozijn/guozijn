@@ -1,5 +1,5 @@
 
-## 🛠 Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
@@ -17,7 +17,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guozijn)
 [![Blog](https://img.shields.io/badge/-Blog-4CAF50?logo=jekyll&logoColor=white)](https://guozijn.github.io)
 [![CV](https://img.shields.io/badge/-CV-FF5722?logo=googlechrome&logoColor=white)](https://zijianguo.com)
