@@ -5,7 +5,7 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         .t {
           background: #ffffff;
-          padding: 26px 0;
+          padding: 26px 0 26px 12px;
           font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;
           font-size: 14px;
           line-height: 2;
