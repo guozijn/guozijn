@@ -50,7 +50,7 @@
       </style>
       <div class="t">
         <div class="line l1"><span class="g">❯ </span><span class="type t1 c">whoami</span></div>
-        <div class="line l2"><span class="type t2 m">  Zijian</span></div>
+        <div class="line l2"><span class="type t2 m">  zijian</span></div>
         <div class="line l3"><span class="g">❯ </span><span class="type t3 c">cat about.txt</span></div>
         <div class="line l4"><span class="type t4 m">  always tinkering. forever curious.</span><span class="cur g">▊</span></div>
       </div>
