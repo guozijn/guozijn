@@ -39,12 +39,12 @@
         .t3 { animation: type3 0.9s steps(13, end) 2.2s forwards; }
         @keyframes type3 { to { width: 13ch; } }
 
-        /* always tinkering. forever curious. = 36 chars */
+        /* stay hungry stay foolish = 26 chars */
         .l4 { animation: show 0s 3.3s forwards; }
-        .t4 { animation: type4 2.4s steps(36, end) 3.3s forwards; }
-        @keyframes type4 { to { width: 36ch; } }
+        .t4 { animation: type4 1.7s steps(26, end) 3.3s forwards; }
+        @keyframes type4 { to { width: 26ch; } }
 
-        .cur { opacity: 0; animation: blink 1s 5.9s infinite; }
+        .cur { opacity: 0; animation: blink 1s 5.2s infinite; }
         @keyframes show  { to { opacity: 1; } }
         @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
       </style>
@@ -52,7 +52,7 @@
         <div class="line l1"><span class="g">❯ </span><span class="type t1 c">whoami</span></div>
         <div class="line l2"><span class="type t2 m">  zijian</span></div>
         <div class="line l3"><span class="g">❯ </span><span class="type t3 c">cat about.txt</span></div>
-        <div class="line l4"><span class="type t4 m">  always tinkering. forever curious.</span><span class="cur g">▊</span></div>
+        <div class="line l4"><span class="type t4 m">  stay hungry stay foolish</span><span class="cur g">▊</span></div>
       </div>
     </div>
   </foreignObject>
